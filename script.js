@@ -5,4 +5,4 @@ let deposit;
 let misson;
 let period;
 
-console.log('Mater test');
+console.log('Master test');

@@ -4,3 +4,5 @@ let addExpenses;
 let deposit;
 let misson;
 let period;
+
+alert('test');

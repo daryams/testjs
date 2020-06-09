@@ -70,7 +70,7 @@ if (budgetDay > 1200 || budgetDay == 1200) {
 } else if (budgetDay > 600 && budgetDay < 1200) {
     console.log('Средненько -_-');
 } else if ((budgetDay < 600 && budgetDay > 0) || budgetDay == 600) {
-    console.log('Нищеброд!');
+    console.log('Нищеброд ебаный!');
 } else if (budgetDay < 0 || budgetDay == 0) {
     console.log('Это пиздец');
 }

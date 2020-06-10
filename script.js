@@ -1,8 +1,3 @@
-let money;
-let income;
-let addExpenses;
-let deposit;
-let misson;
-let period;
+'use sctrict';
 
-console.log('Master test');
+console.log('Lesson4');
